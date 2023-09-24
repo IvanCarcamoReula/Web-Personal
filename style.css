@@ -61,6 +61,7 @@ body {
 
 .secciones {
     border: solid #F0C9DB;
+    background-color: #F0C9DB;
     border-radius: 10px;
     margin-top: 10px;
     margin-bottom: 30px;
@@ -75,15 +76,15 @@ body {
     font-size: 30px;
 }
 .imagenes{
-    margin-right: 30px;
-    margin-left: 10px;
+    margin: 10px;
     height: 600px;
     border-radius: 10px;
 }
 
 .titles{
     text-align: center;
-    font-family: loving;
+    font-weight: bold;
+    font-size: 50px;
 }
 
 .header{
@@ -106,6 +107,9 @@ body {
     margin-right: 30px;
     margin-left: 30px;
     font-size: 30px;
+    font-family: cursive;
+    border-radius: 10px;
+    text-align: justify;
 }
 
 .footer{
@@ -123,7 +127,8 @@ body {
 
 .video {
     height: 700px;
-    
+    margin: 10px;
+    border-radius: 10px;
 }
 
 .proyecto {
@@ -136,8 +141,10 @@ body {
     margin-right: 10px;
     margin-left: 30px;
     border-radius: 10px;
+    margin:  10px;
 }
 
 .TITULO {
     font-size: 100px;
+    font-family: cursive;
 }
